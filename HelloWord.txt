@@ -1,12 +1,16 @@
 class HelloWord
 {
 	static void wlecomemethod()
+
+	void mymethod()
 	{
 		System.out.println("HelloWord");
 	}
 	public Static void Main(String arg[])
 	{
+
 		
 		welcomeMethod();
+
 	}
 }
