@@ -1,7 +1,11 @@
 class HelloWord
 {
-	public Static void Main(String arg[])
+	static void mymethod()
 	{
 		System.out.println("HelloWord");
+	}
+	public Static void Main(String arg[])
+	{
+		myMethod();
 	}
 }
