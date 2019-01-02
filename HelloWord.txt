@@ -1,11 +1,12 @@
 class HelloWord
 {
-	static void mymethod()
+	void mymethod()
 	{
 		System.out.println("HelloWord");
 	}
 	public Static void Main(String arg[])
 	{
-		myMethod();
+		HelloWord h=new Helloword(); 
+		h.myMethod();
 	}
 }
