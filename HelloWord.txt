@@ -1,0 +1,7 @@
+class HelloWord
+{
+	Main()
+	{
+		Systeam.out.println("hello");
+	}
+}
