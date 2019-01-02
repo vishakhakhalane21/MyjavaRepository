@@ -1,6 +1,6 @@
 class HelloWord
 {
-	Main()
+	public Static void Main(String arg[])
 	{
 		Systeam.out.println("hello");
 	}
